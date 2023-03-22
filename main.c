@@ -77,8 +77,8 @@ uint32_t checkValidContent(const char *name_input_file) {
 
 /*
 	Caso o arquivo de entrada tenha apenas caracteres "0"s e/ou "1"s,
-	cada caractere é convertido para um bit, de forma de uma sequencia
-	de oito caracteres forma uma sequencia binária de um byte que é
+	cada caractere é convertido para um bit, de forma que uma sequência
+	de oito caracteres forma uma sequência binária de um byte que é
 	gravado no arquivo de saída.
 */
 void convertBitsToFile(const char *name_input_file, const char *name_output_file) {

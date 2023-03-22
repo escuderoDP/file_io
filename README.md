@@ -5,7 +5,9 @@ To compile, just do `gcc main.c -o binary_name`.
 
 To execute, there are two possible parameters:
 `./binary -b input_file output_file`
+
 The `-b` parameter is for printing the bits as text in the output file.
 
 `./binary -f input_file output_file`
+
 If the input file has only "0" and "1" characters, each character is converted to a bit, so that a sequence of eight characters forms a one-byte binary sequence that is written to the output file.

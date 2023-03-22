@@ -3,7 +3,7 @@ This program is capable of printing the bits of an input file into an output fil
 
 To compile, just do `gcc main.c -o binary_name`.
 
-
+<br />
 # To execute, there are two possible parameters:
 
 `./binary -b input_file output_file`

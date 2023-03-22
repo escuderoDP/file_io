@@ -11,7 +11,7 @@ To execute, there are two possible parameters:
 
 The `-b` parameter is for printing the bits as text in the output file.
 
-#
+
 
 `./binary -f input_file output_file`
 
